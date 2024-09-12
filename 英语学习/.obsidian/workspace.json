@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3ad59f3a140278b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7598a048af306e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ecde46d1c0b0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/词性/介词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b2b660ab6097b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammar/词性/动词/动词的分类/非谓语动词/不定式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c48ed30f87c3ff99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay/祝你不幸.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1279b0dd641eaf88",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec1d64645b5a68d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f27dfe008f5ed94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0243ead47c4fb2f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#乔布斯",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "066a1dbe5e6d6b31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "372880bd2a610068",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ddcf7cfc704c751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5619bea90b67b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grammar/词性/介词.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0e6dc713e051e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Grammar/词性/介词.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8222f3ff3c1bd5df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "984c54955ffc7079",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
+          },
+          {
+            "id": "99aa67bdf3ef24ed",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "91e4f502064bcc88",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "templates:插入模板": false,
+      "pkmer:Open Pkmer Market": false,
+      "card-board:CardBoard": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "3f27dfe008f5ed94",
+  "lastOpenFiles": [
+    "Essay/乔布斯斯坦福中英演讲稿.md",
+    "Essay/祝你不幸.md",
+    "Attachment/祝你不幸.md",
+    "Attachment/乔布斯斯坦福演讲稿.md",
+    "Grammar/词性/动词/动词的时态/过去将来进行时.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词/过去分词.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词/不定式.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词/现在分词.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词/0.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词/动名词.md",
+    "附件/乔布斯third.MP3",
+    "附件/乔布斯second.MP3",
+    "附件/乔布斯first.MP3",
+    "附件/我祝你不幸.mp3",
+    "Grammar/词性/介词.md",
+    "附件/我祝你不幸，大法官反鸡汤祝福引人深思 - 1.我祝你不幸，大法官反鸡汤祝福引人深思(Av923390610,P1).mp3",
+    "附件",
+    "Grammar/词性/动词/动词的分类/助动词/情态助动词.md",
+    "Grammar/词性/动词/动词的分类/助动词/基本助动词.md",
+    "Grammar/词性/动词/动词的分类/助动词/半助动词.md",
+    "Grammar/词性/动词/动词的分类/助动词/0.md",
+    "Phrase/sort of.md",
+    "Words/destiny.md",
+    "Words/needle.md",
+    "Grammar/词性/动词/动词的语气/虚拟语气.md",
+    "Grammar/词性/动词/动词的时态/一般将来时.md",
+    "Grammar/词性/动词/动词的分类/谓语动词/系动词.md",
+    "Grammar/词性/动词/动词的分类/谓语动词/实义动词.md",
+    "Grammar/词性/动词/动词的分类/谓语动词/0.md",
+    "Grammar/词性/动词/动词的时态/0.md",
+    "Grammar/词性/动词/动词的语气/祈使语气.md",
+    "Grammar/词性/动词/动词的语气/条件语气.md",
+    "Grammar/词性/动词/动词的分类/非谓语动词",
+    "Grammar/词性/动词/动词的分类/助动词",
+    "Grammar/词性/动词/动词的语气",
+    "Grammar/词性/动词/动词的时态",
+    "附件/图片/标题示例.png",
+    "未命名.canvas"
+  ]
+}

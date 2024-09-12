@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "autoPairMarkdown": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "newFileLocation": "current",
+  "focusNewTab": false,
+  "autoConvertHtml": true,
+  "autoPairBrackets": false,
+  "propertiesInDocument": "hidden"
+}
